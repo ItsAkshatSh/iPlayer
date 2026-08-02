@@ -114,7 +114,7 @@ want to work on this? head to [/hardware](https://github.com/ItsAkshatSh/iPlayer
 ## Zine
 
 
-<img src="https://github.com/ItsAkshatSh/iPlayer/blob/main/assets/iPlayer_zine.png?raw=true" width=50% height=50%>
+<img src="https://github.com/ItsAkshatSh/iPlayer/blob/main/assets/iPlayer_zin.png?raw=true" width=50% height=50%>
 
 
 ### Thank you HackClub!
