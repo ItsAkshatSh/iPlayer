@@ -90,7 +90,6 @@ want to work on this? head to [/hardware](https://github.com/ItsAkshatSh/iPlayer
 <div align='center'>
 
 ## BOM
-# iPod Clone Bill of Materials (BOM)
 
 | S. No. | Part | Link | Qty | Cost | Notes |
 |---:|:---|:---:|---:|---:|:---|
