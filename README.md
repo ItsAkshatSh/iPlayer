@@ -82,6 +82,8 @@ want to work on this? head to [/hardware](https://github.com/ItsAkshatSh/iPlayer
   </tr>
 </table>
 
+
+[link](https://www.tinkercad.com/things/7QSXqnSlcvx-dazzling-waasa-migelo/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=juyttt5uGTzu_SM2p95USCvhYnbcEyoNm93AeGJV7iI) to case
 </div>
 
 
