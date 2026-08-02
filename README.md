@@ -83,7 +83,7 @@ want to work on this? head to [/hardware](https://github.com/ItsAkshatSh/iPlayer
 </table>
 
 
-[link](https://www.tinkercad.com/things/7QSXqnSlcvx-dazzling-waasa-migelo/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=juyttt5uGTzu_SM2p95USCvhYnbcEyoNm93AeGJV7iI) to case
+[link to tinkercad](https://www.tinkercad.com/things/7QSXqnSlcvx-dazzling-waasa-migelo/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=juyttt5uGTzu_SM2p95USCvhYnbcEyoNm93AeGJV7iI) / [link to onshape](https://cad.onshape.com/documents/dec4665ff2cc214070525b64/w/0dcda68e76d1402d44254b29/e/47c8bf74dd594df05ecc1ae9?renderMode=0&uiState=6a6f5126a4b76ae515814d74)
 </div>
 
 
